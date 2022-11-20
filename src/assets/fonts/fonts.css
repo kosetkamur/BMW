@@ -1,0 +1,72 @@
+
+@font-face {
+    font-family: BMWGroupTNCondensedProTT-Bold;
+
+    src: url("../fonts/BMWGroupTNCondensedProTT-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNCondensedProTT-Regular;
+
+    src: url("../fonts/BMWGroupTNCondensedProTT-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNCondensedProTT-Light;
+
+    src: url("../fonts/BMWGroupTNCondensedProTT-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNCondensedProTT-Thin;
+
+    src: url("../fonts/BMWGroupTNCondensedProTT-Thin.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNTT-Bold;
+
+    src: url("../fonts/BMWGroupTNTT-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNTT-Light;
+
+    src: url("../fonts/BMWGroupTNTT-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNTT-Regular;
+
+    src: url("../fonts/BMWGroupTNTT-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNTT-Thin;
+
+    src: url("../fonts/BMWGroupTNTT-Thin.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNCondensedTT-Bold;
+
+    src: url("../fonts/BMWGroupTNCondensedTT-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNCondensedTT-Light;
+
+    src: url("../fonts/BMWGroupTNCondensedTT-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNCondensedTT-Regular;
+
+    src: url("../fonts/BMWGroupTNCondensedTT-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: BMWGroupTNCondensedTT-Thin;
+
+    src: url("../fonts/BMWGroupTNCondensedTT-Thin.ttf") format("truetype");
+}
